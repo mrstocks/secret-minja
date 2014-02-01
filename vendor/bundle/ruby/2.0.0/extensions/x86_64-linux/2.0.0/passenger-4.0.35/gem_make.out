@@ -1,0 +1,13 @@
+/home/mrstocks/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+Attempting to download https://oss-binaries.phusionpassenger.com/binaries/passenger/by_release/4.0.35/rubyext-ruby-2.0.0-x86_64-linux.tar.gz into /home/mrstocks/Fees_de_Celestia/vendor/bundle/ruby/2.0.0/gems/passenger-4.0.35/download_cache
+Attempting to download https://oss-binaries.phusionpassenger.com/binaries/passenger/by_release/4.0.35/webhelper-1.4.4-x86_64-linux.tar.gz into /home/mrstocks/Fees_de_Celestia/vendor/bundle/ruby/2.0.0/gems/passenger-4.0.35/download_cache
+Attempting to download https://oss-binaries.phusionpassenger.com/binaries/passenger/by_release/4.0.35/support-x86_64-linux.tar.gz into /home/mrstocks/Fees_de_Celestia/vendor/bundle/ruby/2.0.0/gems/passenger-4.0.35/download_cache
+
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+make "DESTDIR="
+true
+
+make "DESTDIR=" install
+true

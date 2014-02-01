@@ -1,0 +1,8 @@
+# ENV VARIABLES
+DOMAIN: "elevage-fees-de-celestia.fr"
+MAILER_DOMAIN: "stocks.oliver@gmail.com"
+SMTP_USER: ""
+SMTP_PWD: ""
+SENDER_EMAIL: ""
+SMTP_SERVER: ""
+SMTP_PORT: 
